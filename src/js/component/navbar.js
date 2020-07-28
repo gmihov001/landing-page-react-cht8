@@ -16,7 +16,7 @@ let Navbar = () => {
 				aria-label="Toggle navigation">
 				<span className="navbar-toggler-icon" />
 			</button>
-			<div className="collapse navbar-collapse" id="navbarNav">
+			<div className="collapse navbar-collapse text-right" id="navbarNav">
 				<ul className="navbar-nav">
 					<li className="nav-item active">
 						<a className="nav-link" href="#">
