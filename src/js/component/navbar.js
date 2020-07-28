@@ -2,8 +2,8 @@ import React from "react";
 
 let Navbar = () => {
 	return (
-		<nav className="navbar navbar-expand-lg navbar-light bg-light">
-			<a className="navbar-brand" href="#">
+		<nav className="navbar navbar-expand-lg bg-dark">
+			<a className="navbar-brand text-light" href="#">
 				Navbar
 			</a>
 			<button
